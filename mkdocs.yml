@@ -44,23 +44,23 @@ theme:
       note: material/map-marker-radius-outline
 
 # Options
-extra:
-  social:
-    - icon: fontawesome/brands/orcid
-      link: https://orcid.org/0000-0002-6639-7181
-    - icon: fontawesome/brands/github
-      link: https://github.com/tyson-swetnam/
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/tswetnam
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/tyson-swetnam
-    - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/u/tswetnam
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/channel/UC5xPt9KZHccC0ehMNEkINzQ
-  analytics:
-    provider: google
-    property: G-NYETZFD8DN
+# extra:
+#   social:
+#     - icon: fontawesome/brands/orcid
+#       link: https://orcid.org/0000-0002-6639-7181
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/tyson-swetnam/
+#     - icon: fontawesome/brands/twitter
+#       link: https://twitter.com/tswetnam
+#     - icon: fontawesome/brands/linkedin
+#       link: https://www.linkedin.com/in/tyson-swetnam
+#     - icon: fontawesome/brands/docker
+#       link: https://hub.docker.com/u/tswetnam
+#     - icon: fontawesome/brands/youtube
+#       link: https://www.youtube.com/channel/UC5xPt9KZHccC0ehMNEkINzQ
+#   analytics:
+#     provider: google
+#     property: G-NYETZFD8DN
   
 # Extensions
 markdown_extensions:
@@ -105,16 +105,16 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Research: 
-    - Current: current_projects.md
-    - Prior: previous_projects.md
-    - Grants & Awards: awards.md
-    - Publications: publications.md
-  - Talks: talks.md
-  - Teaching: 
-    - Classes taught: teaching.md
-    - Advising & Mentoring: mentoring.md
-  - Job Announcements: jobs.md
-  - Public Data Sets: data.md
-  - Code: code.md
-  - Curriculum Vitae: cv.md
+  # - Research: 
+  #   - Current: current_projects.md
+  #   - Prior: previous_projects.md
+  #   - Grants & Awards: awards.md
+  #   - Publications: publications.md
+  # - Talks: talks.md
+  # - Teaching: 
+  #   - Classes taught: teaching.md
+  #   - Advising & Mentoring: mentoring.md
+  # - Job Announcements: jobs.md
+  # - Public Data Sets: data.md
+  # - Code: code.md
+  # - Curriculum Vitae: cv.md
