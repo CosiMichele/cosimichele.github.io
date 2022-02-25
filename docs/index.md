@@ -10,4 +10,16 @@
 - Nagoya University, MS, Agriculture, 2019
 - Nagoya University, BS, Applied Biosciences, 2017
 
+## Research
+
+- During my time as a graduate student at the University of Arizona, I had the opportunity to assist the PhytoOracle project ([documentation](https://phytooracle.readthedocs.io/en/latest/), [repository](https://github.com/phytooracle)).
+
 ## Contact me
+
+Code writing
+Design
+Documentation
+Testing
+Workflows
+Coordination
+Support
