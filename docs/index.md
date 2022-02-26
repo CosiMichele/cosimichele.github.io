@@ -2,17 +2,23 @@
 
 ## About me
 
+![MC]](./assets/MC_2020.jpg)
+
 I am a Science Analyst for [CyVerse](https://www.cyverse.org/) at the University of Arizona, offering support for scientists interested in using the tools provided by CyVerse. My research interests are in genomics and phenomics, with a focus on workflow development, automation and data extraction.
 
-## Education
+### Education
 
 - University of Arizona, MS, Plant Sciences, 2021
 - Nagoya University, MS, Agriculture, 2019
 - Nagoya University, BS, Applied Biosciences, 2017
 
-## Research
+------------------------------------------------------------------------
 
-### PhytoOracle
+## Research and Work
+
+### PhytoOracle 
+
+![PO](./assets/PhytoOracle_logo.png){width="575px" height="575px"}
 
 During my time as a graduate student at the University of Arizona, I had the opportunity to assist the PhytoOracle project.
 
@@ -22,13 +28,16 @@ During my time as a graduate student at the University of Arizona, I had the opp
     - Large scale phenotype extraction.
     - Big Data management and processing.
 - Learn more on PhytoOracle:
+    - North American Plant Phenotyping Network (NAPPN 2022) [conference article](https://www.essoar.org/doi/10.1002/essoar.10508789.1). 
     - Find out what the Wall Street Journal had to say about PhytoOracle: [WSJ article](https://www.wsj.com/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276).
     - Watch PhytoOracle on [YouTube](https://www.youtube.com/watch?v=da2gKRdMeXY).
 - Documentation and repository:
     - [Documentation](https://phytooracle.readthedocs.io/en/latest/).
-    - [Repository](https://github.com/phytooracle).
+    - [GitHub Repository](https://github.com/phytooracle).
 
 ### StarBLAST
+
+![SB](./assets/Starblast_logo.png){width="257px" height="575px"}
 
 Primary maintainer and developer of StarBLAST.
 
@@ -40,12 +49,18 @@ Primary maintainer and developer of StarBLAST.
     - [Documentation](https://starblast.readthedocs.io/en/latest/).
     - [GitHub Repository](https://github.com/LyonsLab/StarBLAST).
 
+### Conferences, Presentations & Webinars
+
+Selected presentations and webinars:
+
+-  [Agricultural Genome to Phenome Initialtive (AG2PI) Field Day](https://www.ag2pi.org/workshops-and-activities/field-day-2020-12-16/)
+- [PhytoOracle - A Workflow Manager for Phenomic Data Processing](https://www.youtube.com/watch?v=N-p5tkGgE0U)
+- [Phenome 2020](https://www.eventscribe.com/2020/Phenome2020/fsPopup.asp?efp=RExEU1NPU04xMTI4Nw&PresentationID=700576&rnd=0.9765419&mode=presinfo)
+
+------------------------------------------------------------------------
+
 ## Contact me
 
-Code writing
-Design
-Documentation
-Testing
-Workflows
-Coordination
-Support
+Mail: cosi-at-arizona-dot.edu
+GitHub: https://github.com/CosiMichele
+OrcID: 0000-0001-7609-1939
