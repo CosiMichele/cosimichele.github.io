@@ -2,7 +2,7 @@
 
 ## About me
 
-![MC]](./assets/MC_2020.jpg)
+![MC](./assets/MC_2020.jpg){width="350px" height="466px"}
 
 I am a Science Analyst for [CyVerse](https://www.cyverse.org/) at the University of Arizona, offering support for scientists interested in using the tools provided by CyVerse. My research interests are in genomics and phenomics, with a focus on workflow development, automation and data extraction.
 
@@ -16,9 +16,7 @@ I am a Science Analyst for [CyVerse](https://www.cyverse.org/) at the University
 
 ## Research and Work
 
-### PhytoOracle 
-
-![PO](./assets/PhytoOracle_logo.png){width="575px" height="575px"}
+### PhytoOracle ![PO](./assets/PhytoOracle_logo.png){width="257px" height="257px"}
 
 During my time as a graduate student at the University of Arizona, I had the opportunity to assist the PhytoOracle project.
 
@@ -35,9 +33,7 @@ During my time as a graduate student at the University of Arizona, I had the opp
     - [Documentation](https://phytooracle.readthedocs.io/en/latest/).
     - [GitHub Repository](https://github.com/phytooracle).
 
-### StarBLAST
-
-![SB](./assets/Starblast_logo.png){width="257px" height="575px"}
+### StarBLAST ![SB](./assets/Starblast_logo.png){width="257px" height="575px"}
 
 Primary maintainer and developer of StarBLAST.
 
