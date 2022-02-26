@@ -16,7 +16,9 @@ I am a Science Analyst for [CyVerse](https://www.cyverse.org/) at the University
 
 ## Research and Work
 
-### PhytoOracle ![PO](./assets/PhytoOracle_logo.png){width="257px" height="257px"}
+### PhytoOracle 
+
+![PO](./assets/PhytoOracle_logo.png){width="257px" height="257px"}
 
 During my time as a graduate student at the University of Arizona, I had the opportunity to assist the PhytoOracle project.
 
@@ -33,7 +35,9 @@ During my time as a graduate student at the University of Arizona, I had the opp
     - [Documentation](https://phytooracle.readthedocs.io/en/latest/).
     - [GitHub Repository](https://github.com/phytooracle).
 
-### StarBLAST ![SB](./assets/Starblast_logo.png){width="257px" height="575px"}
+### StarBLAST 
+
+![SB](./assets/Starblast_logo.png){width="128px" height="128px"}
 
 Primary maintainer and developer of StarBLAST.
 
@@ -57,6 +61,6 @@ Selected presentations and webinars:
 
 ## Contact me
 
-Mail: cosi-at-arizona-dot.edu
-GitHub: https://github.com/CosiMichele
-OrcID: 0000-0001-7609-1939
+- Mail: cosi-at-arizona-dot.edu
+- GitHub: https://github.com/CosiMichele
+- OrcID: 0000-0001-7609-1939

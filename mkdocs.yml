@@ -103,8 +103,8 @@ markdown_extensions:
   - pymdownx.tilde
 
 # Page tree
-nav:
-  - Home: docs/index.md
+#nav:
+#  - Home: docs/index.md
   # - Research: 
   #   - Current: current_projects.md
   #   - Prior: previous_projects.md
