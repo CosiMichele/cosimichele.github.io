@@ -61,6 +61,6 @@ Selected presentations and webinars:
 
 ## Contact me
 
-- Mail: cosi-at-arizona-dot.edu
+- Mail: cosi-at-arizona-dot-edu
 - GitHub: https://github.com/CosiMichele
 - OrcID: 0000-0001-7609-1939
