@@ -18,7 +18,7 @@ I am a Science Analyst for [CyVerse](https://www.cyverse.org/) at the University
 
 ### PhytoOracle 
 
-![PO](./assets/PhytoOracle_logo.png){width="257px" height="257px"}
+![PO](./assets/PhytoOracle_logo.png){width="128px" height="128px"}
 
 During my time as a graduate student at the University of Arizona, I had the opportunity to assist the PhytoOracle project.
 
@@ -37,7 +37,7 @@ During my time as a graduate student at the University of Arizona, I had the opp
 
 ### StarBLAST 
 
-![SB](./assets/Starblast_logo.png){width="128px" height="128px"}
+![SB](./assets/Starblast_logo.png){width="257px" height="575px"}
 
 Primary maintainer and developer of StarBLAST.
 
