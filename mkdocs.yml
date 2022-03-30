@@ -15,7 +15,7 @@ copyright: 'Copyright &copy; 2022 Cosi Michele'
 # Configuration
 
 theme:
-  name: mkdocs
+  name: material
 
   # 404 page
   static_templates:
@@ -117,5 +117,7 @@ markdown_extensions:
   # - Code: code.md
   # - Curriculum Vitae: cv.md
 
-# plugins:
-#   - mike
+# Customization
+extra:
+  version:
+    provider: mike
