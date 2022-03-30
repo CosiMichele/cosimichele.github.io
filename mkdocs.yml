@@ -117,5 +117,5 @@ markdown_extensions:
   # - Code: code.md
   # - Curriculum Vitae: cv.md
 
-plugins:
-  - mike
+# plugins:
+#   - mike
