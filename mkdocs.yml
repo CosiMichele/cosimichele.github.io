@@ -15,7 +15,7 @@ copyright: 'Copyright &copy; 2022 Cosi Michele'
 # Configuration
 
 theme:
-  name: material
+  name: mkdocs
 
   # 404 page
   static_templates:
