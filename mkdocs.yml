@@ -1,19 +1,21 @@
+# General
 site_name: 'Cosi Michele'
-site_description: ''
-site_author: 'Cosi Michele'
+site_description: 'Website for Cosi Michele, MS'
+site_author: 'Cosi Michele, MS'
 site_url: https://cosimichele.github.io/home/
 
 # Repository
 repo_name: CosiMichele
 repo_url: https://github.com/CosiMichele/cosimichele.github.io
 edit_uri: edit/main/docs/
+
 # Copyright
 copyright: 'Copyright &copy; 2022 Cosi Michele'
 
 # Configuration
 
 theme:
-  name: 'material'
+  name: mkdocs
 
   # 404 page
   static_templates:
@@ -71,36 +73,32 @@ markdown_extensions:
   - footnotes
   - meta
   - md_in_html
-  - toc:
-      permalink: true
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.highlight
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.magiclink:
-      repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tabbed
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
+  # - toc:
+  #     permalink: true
+  # - pymdownx.arithmatex:
+  #     generic: true
+  # - pymdownx.betterem:
+  #     smart_enable: all
+  # - pymdownx.caret
+  # - pymdownx.critic
+  # - pymdownx.details
+  # - pymdownx.highlight
+  # - pymdownx.inlinehilite
+  # - pymdownx.keys
+  # - pymdownx.mark
+  # - pymdownx.smartsymbols
+  # - pymdownx.tabbed
+  # - pymdownx.tilde
+  # - pymdownx.superfences:
+  #     custom_fences:
+  #       - name: mermaid
+  #         class: mermaid
+  # - pymdownx.magiclink:
+  #   repo_url_shorthand: true
+  #   user: squidfunk
+  #   repo: mkdocs-material
+  # - pymdownx.tasklist:
+  #     custom_checkbox: true
 
 # Page tree
 #nav:
@@ -118,3 +116,6 @@ markdown_extensions:
   # - Public Data Sets: data.md
   # - Code: code.md
   # - Curriculum Vitae: cv.md
+
+plugins:
+  - mike
