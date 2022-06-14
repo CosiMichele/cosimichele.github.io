@@ -1,11 +1,5 @@
 # Cosi Michele, Science Analyst
 
-!!! Warning "Announcement"
-
-        CyVerse is currently looking for a Data Scientist. We are an interdisciplinary team spanning the fields of data science, life science, and cyberinfrastructure. Join and help create, manage, and support collaborative projects among CyVerse, UArizona Data Science Institute, and external research communities. This includes working with scientists and their research communities, researching appropriate supporting technologies, and developing learning and training materials for advancing scientific discoveries. 
-        
-        For more information, visit the official job posting: https://arizona.csod.com/ux/ats/careersite/4/home/requisition/8763?c=arizona
-
 ## About me
 
 ![MC](./assets/MC_2020.jpg){width="350px" height="466px"}
