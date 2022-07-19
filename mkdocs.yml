@@ -1,5 +1,5 @@
 # General
-site_name: 'Cosi Michele'
+site_name: 'Reference'
 site_description: 'Website for Cosi Michele, MS'
 site_author: 'Cosi Michele, MS'
 site_url: https://cosimichele.github.io/home/
@@ -73,8 +73,9 @@ markdown_extensions:
   - footnotes
   - meta
   - md_in_html
-  # - toc:
-  #     permalink: true
+    - toc:
+      permalink: true
+      title: On this page
   # - pymdownx.arithmatex:
   #     generic: true
   # - pymdownx.betterem:
@@ -101,8 +102,10 @@ markdown_extensions:
   #     custom_checkbox: true
 
 # Page tree
-#nav:
-#  - Home: docs/index.md
+nav:
+  - Home: docs/index.md
+  - Research: docs/research.md
+  - Workshops & Confereces: docs/workshops_conferences.md
   # - Research: 
   #   - Current: current_projects.md
   #   - Prior: previous_projects.md
