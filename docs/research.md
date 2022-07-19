@@ -4,7 +4,7 @@
 
 ### [Opendendro](https://opendendro.org/)
 
-![OD](./assets/openDendro.png){width="403px" height="348px"}
+![OD](./assets/openDendro.png){width="201px" height="174px"}
 
 Managing and helping with the porting of the OpenDendro software to the Python computing language.
 OpenDendro is a an open-source framework of the base analytic software tools used in dendrochronology, currently available in [R (dplR)](https://opendendro.org/r/) and being developed for [Python (dplPy)](https://opendendro.org/python/) (alpha).
@@ -40,7 +40,9 @@ During my time as a graduate student at the University of Arizona, I had the opp
 
 ![SB](./assets/Starblast_logo.png){width="257px" height="575px"}
 
-Primary maintainer and developer of StarBLAST [![DOI](https://jose.theoj.org/papers/10.21105/jose.00102/status.svg)](https://doi.org/10.21105/jose.00102).
+[![DOI](https://jose.theoj.org/papers/10.21105/jose.00102/status.svg)](https://doi.org/10.21105/jose.00102)
+
+Primary maintainer and developer of StarBLAST.
 
 - StarBLAST is a scalable extension of [SequenceServer](http://sequenceserver.com/) BLAST, making BLAST accessible to educators and researchers running classroom-scale searches concurrently. The idea first originated when long queue times would disrupt lectures based on the [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) software, turning educators to look for a solution. StarBLAST was created with this in mind: making BLAST accessible to all levels and sizes of classrooms.
 - Learn more on StarBLAST:
