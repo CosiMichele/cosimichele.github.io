@@ -4,7 +4,7 @@
 
 ### [Opendendro](https://opendendro.org/)
 
-![OD](./assets/openDendro.png){width="201px" height="174px"}
+![OD](./assets/openDendro.png){width="100px" height="87px"}
 
 Managing and helping with the porting of the OpenDendro software to the Python computing language.
 OpenDendro is a an open-source framework of the base analytic software tools used in dendrochronology, currently available in [R (dplR)](https://opendendro.org/r/) and being developed for [Python (dplPy)](https://opendendro.org/python/) (alpha).
