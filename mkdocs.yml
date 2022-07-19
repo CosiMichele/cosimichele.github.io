@@ -1,5 +1,5 @@
 # General
-site_name: 'Reference'
+site_name: 'Cosi Michele'
 site_description: 'Website for Cosi Michele, MS'
 site_author: 'Cosi Michele, MS'
 site_url: https://cosimichele.github.io/home/
@@ -103,9 +103,9 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: docs/index.md
-  - Research: docs/research.md
-  - Workshops & Confereces: docs/workshops_conferences.md
+  - Home: index.md
+  - Research: research.md
+  - Workshops & Confereces: workshops_conferences.md
   # - Research: 
   #   - Current: current_projects.md
   #   - Prior: previous_projects.md
