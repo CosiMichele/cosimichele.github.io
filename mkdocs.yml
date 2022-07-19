@@ -73,7 +73,7 @@ markdown_extensions:
   - footnotes
   - meta
   - md_in_html
-    - toc:
+  - toc:
       permalink: true
       title: On this page
   # - pymdownx.arithmatex:
@@ -119,8 +119,3 @@ nav:
   # - Public Data Sets: data.md
   # - Code: code.md
   # - Curriculum Vitae: cv.md
-
-# Customization
-extra:
-  version:
-    provider: mike
