@@ -2,8 +2,7 @@
 
 ## About me
 
-![MC](./assets/MC_2020.jpg){width="175px" height="233px"}
-
+![MC](./assets/MC_2020.jpg){align=right width="200px" height="266px"}
 I am a Science Analyst for [CyVerse](https://www.cyverse.org/) at the University of Arizona, offering support for scientists interested in using the tools provided by CyVerse. My research interests are in genomics and phenomics, with a focus on workflow development, automation and data extraction.
 
 ### Education
