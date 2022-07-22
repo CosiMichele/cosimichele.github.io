@@ -2,6 +2,14 @@
 
 ## Current Projects
 
+### [eDNA](https://ucedna.com/our-mission)
+
+![eDNA](.assets/edna.png){width="100px"}
+
+The eDNA project aims to help Conservation Biologists to effectively monitor species distribution and establish reliable baselines of the Californian biodiversity. As DNA data is everexpanding, the eDNA team and CyVerse are working together for a solution for hosting, processing and making the data accessible for scientists worldwide.
+
+- [Documentation](https://ucedna.com/our-mission).
+
 ### [Opendendro](https://opendendro.org/)
 
 ![OD](./assets/openDendro.png){width="100px" height="87px"}
