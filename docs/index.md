@@ -1,4 +1,4 @@
-# Cosi Michele, Science Analyst
+# **Cosi Michele**
 
 ## About me
 

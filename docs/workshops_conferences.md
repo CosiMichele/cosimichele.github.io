@@ -1,4 +1,4 @@
-# Workshops & Conferences
+# **Workshops & Conferences**
 
 ## Upcoming Workshops/Conferences
 
