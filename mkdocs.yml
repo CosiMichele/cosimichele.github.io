@@ -126,10 +126,16 @@ extra_css:
   - stylesheets/extra.css
  
 plugins:
-    - search
-    - mkdocstrings
-    - git-revision-date
-    - mkdocs-jupyter:
-          include_source: True
-          ignore_h1_titles: True
+  - search
+  - mkdocstrings:
+      custom_templates: templates
+      default_handler: python
+      handlers:
+        python:
+          options:
+            show_source: false
+  - git-revision-date
+  - mkdocs-jupyter:
+        include_source: True
+        ignore_h1_titles: True
 
