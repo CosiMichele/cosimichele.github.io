@@ -34,6 +34,7 @@ theme:
         icon: material/brightness-3
         name: Switch to dark mode
     - scheme: slate
+      primary: black
       accent: amber 
       toggle:
         icon: material/brightness-7
@@ -46,6 +47,9 @@ theme:
     logo: material/dna
     admonition:
       note: material/map-marker-radius-outline
+  feature:
+    - navigation.tabs
+    - navigation.tabs.sticky
 
 # Page tree
 nav:
