@@ -1,5 +1,5 @@
 # General
-site_name: 'Cosi Michele'
+site_name: 'Cosi Michele's Fulcrum'
 site_description: 'Website for Cosi Michele, MS'
 site_author: 'Cosi Michele, MS'
 site_url: https://cosimichele.github.io/home/
@@ -28,13 +28,15 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: en
   palette: 
-    - scheme: default
+    - scheme: teal
+      accent: amber
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-7
         name: Switch to dark mode
-    - scheme: slate 
+    - scheme: slate
+      accent: amber 
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-3
         name: Switch to light mode
   font:
     text: Montserrat
@@ -44,62 +46,6 @@ theme:
     logo: material/dna
     admonition:
       note: material/map-marker-radius-outline
-
-# Options
-# extra:
-#   social:
-#     - icon: fontawesome/brands/orcid
-#       link: https://orcid.org/0000-0002-6639-7181
-#     - icon: fontawesome/brands/github
-#       link: https://github.com/tyson-swetnam/
-#     - icon: fontawesome/brands/twitter
-#       link: https://twitter.com/tswetnam
-#     - icon: fontawesome/brands/linkedin
-#       link: https://www.linkedin.com/in/tyson-swetnam
-#     - icon: fontawesome/brands/docker
-#       link: https://hub.docker.com/u/tswetnam
-#     - icon: fontawesome/brands/youtube
-#       link: https://www.youtube.com/channel/UC5xPt9KZHccC0ehMNEkINzQ
-#   analytics:
-#     provider: google
-#     property: G-NYETZFD8DN
-  
-# Extensions
-markdown_extensions:
-  - admonition
-  - abbr
-  - attr_list
-  - def_list
-  - footnotes
-  - meta
-  - md_in_html
-  - toc:
-      permalink: true
-      title: On this page
-  # - pymdownx.arithmatex:
-  #     generic: true
-  # - pymdownx.betterem:
-  #     smart_enable: all
-  # - pymdownx.caret
-  # - pymdownx.critic
-  # - pymdownx.details
-  # - pymdownx.highlight
-  # - pymdownx.inlinehilite
-  # - pymdownx.keys
-  # - pymdownx.mark
-  # - pymdownx.smartsymbols
-  # - pymdownx.tabbed
-  # - pymdownx.tilde
-  # - pymdownx.superfences:
-  #     custom_fences:
-  #       - name: mermaid
-  #         class: mermaid
-  # - pymdownx.magiclink:
-  #   repo_url_shorthand: true
-  #   user: squidfunk
-  #   repo: mkdocs-material
-  # - pymdownx.tasklist:
-  #     custom_checkbox: true
 
 # Page tree
 nav:
@@ -119,3 +65,72 @@ nav:
   # - Public Data Sets: data.md
   # - Code: code.md
   # - Curriculum Vitae: cv.md
+
+# Options
+# extra:
+#   social:
+#     - icon: fontawesome/brands/orcid
+#       link: https://orcid.org/0000-0001-7609-1939
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/CosiMichele
+#     - icon: fontawesome/brands/twitter
+#       link: https://twitter.com/cosi_michele
+#     - icon: fontawesome/brands/linkedin
+#       link: https://www.linkedin.com/in/michele-cosi/
+#     - icon: fontawesome/brands/docker
+#       link: https://hub.docker.com/u/cosimichele
+#   analytics:
+#     provider: google
+#     property: G-NYETZFD8DN
+  
+# Extensions
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra_css:
+  - stylesheets/extra.css
+ 
+plugins:
+    - search
+    - mkdocstrings
+    - git-revision-date
+    - mkdocs-jupyter:
+          include_source: True
+          ignore_h1_titles: True
+
