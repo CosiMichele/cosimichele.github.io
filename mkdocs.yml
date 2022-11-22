@@ -47,18 +47,15 @@ theme:
     logo: material/dna
     admonition:
       note: material/map-marker-radius-outline
-  feature:
+  features:
     - navigation.tabs
     - navigation.tabs.sticky
 
 # Page tree
 nav:
-  - Home: 
-    - 'Home': index.md
-  - Research: 
-    - 'Research': research.md
-  - Workshops & Confereces: 
-    - 'Workshops & Confereces': workshops_conferences.md
+  - Home: index.md
+  - Research: research.md
+  - Workshops & Confereces: workshops_conferences.md
   # - Research: 
   #   - Current: current_projects.md
   #   - Prior: previous_projects.md
