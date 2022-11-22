@@ -50,12 +50,13 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.sections
 
 # Page tree
 nav:
   - Home: index.md
   - Research: research.md
-  - Workshops & Confereces: workshops_conferences.md
+  - Outreach and Community: workshops_conferences.md
   # - Research: 
   #   - Current: current_projects.md
   #   - Prior: previous_projects.md
