@@ -29,18 +29,18 @@ theme:
   palette: 
     - scheme: default
       primary: black
-      accent: amber
+      accent: orange
       toggle:
         icon: material/brightness-3
         name: Switch to dark mode
     - scheme: slate
       primary: black
-      accent: amber 
+      accent: orange 
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
   font:
-    text: Montserrat
+    text: Roboto
     code: Regular
   favicon: assets/favicon.png
   icon:
