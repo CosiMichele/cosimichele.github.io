@@ -51,6 +51,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
+    - toc.integrate
 
 # Page tree
 nav:
