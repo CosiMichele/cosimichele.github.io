@@ -27,15 +27,16 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: en
   palette: 
-    - scheme: teal
+    - scheme: default
+      primary: black
       accent: amber
       toggle:
-        icon: material/brightness-7
+        icon: material/brightness-3
         name: Switch to dark mode
     - scheme: slate
       accent: amber 
       toggle:
-        icon: material/brightness-3
+        icon: material/brightness-7
         name: Switch to light mode
   font:
     text: Montserrat
